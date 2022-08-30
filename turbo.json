@@ -10,12 +10,6 @@
     },
     "dev": {
       "cache": false
-    },
-    "transpile": {
-      "cache": true
-    },
-    "transpile:watch": {
-      "cache": false
     }
   }
 }

@@ -4,8 +4,8 @@
   "description": "",
   "main": "./dist/index.js",
   "scripts": {
-    "transpile": "tsc",
-    "transpile:watch": "tsc --watch"
+    "build": "tsc",
+    "dev": "tsc --watch"
   },
   "author": "",
   "license": "ISC"
