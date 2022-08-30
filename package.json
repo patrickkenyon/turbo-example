@@ -10,7 +10,9 @@
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
     "lint": "turbo run lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "transpilePackages": "turbo run transpile",
+    "transpilePackages:watch": "turbo run transpile:watch"
   },
   "devDependencies": {
     "eslint-config-custom": "*",

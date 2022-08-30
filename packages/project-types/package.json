@@ -1,0 +1,12 @@
+{
+  "name": "project-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "transpile": "tsc",
+    "transpile:watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
